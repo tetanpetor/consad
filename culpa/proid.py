@@ -1,0 +1,1 @@
+attendees = {'Alice', 'Bob', 'Charlie'}
